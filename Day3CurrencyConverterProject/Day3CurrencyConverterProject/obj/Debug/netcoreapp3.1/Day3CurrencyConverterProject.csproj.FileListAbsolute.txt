@@ -1,0 +1,13 @@
+C:\Users\waiya\source\repos\Day3CurrencyConverterProject\Day3CurrencyConverterProject\bin\Debug\netcoreapp3.1\Day3CurrencyConverterProject.exe
+C:\Users\waiya\source\repos\Day3CurrencyConverterProject\Day3CurrencyConverterProject\bin\Debug\netcoreapp3.1\Day3CurrencyConverterProject.deps.json
+C:\Users\waiya\source\repos\Day3CurrencyConverterProject\Day3CurrencyConverterProject\bin\Debug\netcoreapp3.1\Day3CurrencyConverterProject.runtimeconfig.json
+C:\Users\waiya\source\repos\Day3CurrencyConverterProject\Day3CurrencyConverterProject\bin\Debug\netcoreapp3.1\Day3CurrencyConverterProject.runtimeconfig.dev.json
+C:\Users\waiya\source\repos\Day3CurrencyConverterProject\Day3CurrencyConverterProject\bin\Debug\netcoreapp3.1\Day3CurrencyConverterProject.dll
+C:\Users\waiya\source\repos\Day3CurrencyConverterProject\Day3CurrencyConverterProject\bin\Debug\netcoreapp3.1\Day3CurrencyConverterProject.pdb
+C:\Users\waiya\source\repos\Day3CurrencyConverterProject\Day3CurrencyConverterProject\obj\Debug\netcoreapp3.1\Day3CurrencyConverterProject.csprojAssemblyReference.cache
+C:\Users\waiya\source\repos\Day3CurrencyConverterProject\Day3CurrencyConverterProject\obj\Debug\netcoreapp3.1\Day3CurrencyConverterProject.AssemblyInfoInputs.cache
+C:\Users\waiya\source\repos\Day3CurrencyConverterProject\Day3CurrencyConverterProject\obj\Debug\netcoreapp3.1\Day3CurrencyConverterProject.AssemblyInfo.cs
+C:\Users\waiya\source\repos\Day3CurrencyConverterProject\Day3CurrencyConverterProject\obj\Debug\netcoreapp3.1\Day3CurrencyConverterProject.csproj.CoreCompileInputs.cache
+C:\Users\waiya\source\repos\Day3CurrencyConverterProject\Day3CurrencyConverterProject\obj\Debug\netcoreapp3.1\Day3CurrencyConverterProject.dll
+C:\Users\waiya\source\repos\Day3CurrencyConverterProject\Day3CurrencyConverterProject\obj\Debug\netcoreapp3.1\Day3CurrencyConverterProject.pdb
+C:\Users\waiya\source\repos\Day3CurrencyConverterProject\Day3CurrencyConverterProject\obj\Debug\netcoreapp3.1\Day3CurrencyConverterProject.genruntimeconfig.cache
